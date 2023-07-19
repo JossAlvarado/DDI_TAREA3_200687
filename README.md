@@ -1,8 +1,17 @@
+# Universidad Tecnológica de Xicotepec de Juárez
 
-# DDI_TAREA3_200687
+![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-**Desarrollo de Dispositivos inteligentes**
+## Ingeniería en Desarrollo y Gestión de Software
+### Josseline Alvarado Vargas
+### 9A
+#### Desarrollo de Dispositivos Inteligentes
+### DDI_TAREA3_200687
 
-**Tarea 3 de Wearables Imagen y texto con animacion**
+## Características
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | Tarea 3 Fuente, Animación, Imagen                                        |
+| Descripción            | Estilización de una interfaz para Wereables que incluya tipografia, imagenes y animación |
+| Fecha de Carga         | 24/05/23                                                                 |
 
-**Josseline Alvarado Vargas 200687**
