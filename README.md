@@ -1,8 +1,8 @@
 
-# Universidad Tecnológica de Xicotepec de Juárez  
+# DDI_TAREA3_200687
 
-### Desarrollo de Dispositivos inteligentes    
+**Desarrollo de Dispositivos inteligentes**
 
-#### Tarea 3 de Wearables Imagen texto con animacion
+**Tarea 3 de Wearables Imagen y texto con animacion**
 
-___Josseline Alvarado Vargas 200687___
+**Josseline Alvarado Vargas 200687**
